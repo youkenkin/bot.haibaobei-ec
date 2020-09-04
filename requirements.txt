@@ -1,0 +1,9 @@
+scrapy>=1.0.0
+selenium>=3.9.0
+PyVirtualDisplay>=0.2.1
+peewee>=3.6.4
+requests>=2.19.1
+xlsxwriter
+xlrd
+pandas
+openpyxl

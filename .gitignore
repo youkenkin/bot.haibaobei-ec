@@ -1,0 +1,6 @@
+.venv/
+*.pyc
+launch.json
+settings.json
+__pycache__/
+goods_bot/haibaobei_token.json
